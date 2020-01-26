@@ -4,9 +4,11 @@
 
 #### *IMPORTANTE PARA DESPLIEGUE DE PRACTICA DEVOPS*
 Esta practica de Node esta desplegada en la siguiente instancia de AWS para el ejercicio 1:
+
 http://ec2-63-32-168-143.eu-west-1.compute.amazonaws.com/
 
 Tambien es accesible via IP para acceder a una web tipo "portfolio" para el ejercicio 2:
+
 http://63.32.168.143/
 
 
